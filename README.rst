@@ -25,7 +25,7 @@ Webhooks
 
 Webhooks are HTTPS requests from one party --- the source --- to
 another party, the destination. These requests are one-way: the source
-sends the request to the destination, and aside from conforming that
+sends the request to the destination, and aside from confirming that
 the request was received, takes no further action (the request's
 response from the destination is irrelevant). These requests are sent
 from the source to let the destination know that something has
